@@ -1,2 +1,2 @@
-#H1 I just made my first website
+# I just made my first website
 [link to my website]https://caljack8.github.io/website1/
